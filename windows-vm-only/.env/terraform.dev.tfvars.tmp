@@ -1,0 +1,12 @@
+### environment
+environment = "development"
+
+### location (東日本 : japaneast)
+location = ""
+
+### resource group
+name = ""
+
+### VM resource
+vm_os_profile_adminuser = ""
+vm_os_profile_adminpass = ""
